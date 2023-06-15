@@ -2,7 +2,7 @@ OBJS	= main.o
 SOURCE	= main.c
 HEADER	=
 OUT	= 0
-CC	 = gcc
+CC	 = clang
 FLAGS	 = -g -c -Wall
 LFLAGS	 =
 
@@ -14,8 +14,7 @@ all: $(OBJS)
 
 
 main.o: main.c
-	$(CC) $(FLAGS) main.c -lcuni
-
+	$(CC) $(FLAGS) main.c
 
 clean:
 	rm -f $(OBJS) $(OUT)
