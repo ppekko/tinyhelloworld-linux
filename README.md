@@ -6,6 +6,11 @@ A C Hello World program that compiles into 938 bytes.
 You will need to have [sstrip](https://github.com/aunali1/super-strip "sstrip") installed on your system for this to compile.
 betterGZ is a modified version of gzexe which removes some bloat that it produces.
 
+
+<p align="center">
+<img src="./brand/icon.png" alt="drawing" width="200" height="200"/>
+</p>
+
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
@@ -23,8 +28,3 @@ This work is published from:
       content="GB" about="https://github.com/kb-x/tinyhelloworld-linux">
   United Kingdom</span>.
 </p>
-
-<p align="center">
-<img src="./brand/icon.png" alt="drawing" width="200" height="200"/>
-</p>
-
