@@ -1,7 +1,7 @@
 ![banner](./brand/banner.png)
 # tinyhelloworld Linux
 
-A hello world program that compiles into 940 bytes.
+A C Hello World program that compiles into 940 bytes.
 
 You will need to have [sstrip](https://github.com/aunali1/super-strip "sstrip") installed on your system for this to compile.
 
