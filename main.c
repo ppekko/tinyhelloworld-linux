@@ -2,7 +2,8 @@
 
 void _start() {
    asm volatile("push %rax\n");
-   printf("Hello World!");fflush(NULL);
+   printf("Hello World!");
+   fflush(NULL);
   asm ( \
   "movl $1,%eax\n" \
   "xor %ebx,%ebx\n" \
